@@ -8,7 +8,7 @@ How to build the App?
 <li>Clone the repository using <code>git clone</code>.</li>
 <li>Install node modules using <code>npm i</code> command.</li>
 <li>Start the Express Server (backend) using <code>nodemon src/server/server.js</code>.(will be hosted on port 3001(default))</li>
-<li>Start the React application using <code>npm start</code>code>.(will be hosted on port 3000(default).</li>
+<li>Start the React application using <code>npm start</code>.(will be hosted on port 3000(default).</li>
 <li>For Database you have to Install mongodb. </li>
 <li>Start mongodb using <code>mongod</code> command.</li>
 <br/>
